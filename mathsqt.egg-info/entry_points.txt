@@ -1,0 +1,2 @@
+[console_scripts]
+mathsqt = mathsqt.main:main

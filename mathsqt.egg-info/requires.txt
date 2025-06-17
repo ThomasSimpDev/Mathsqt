@@ -1,0 +1,4 @@
+rich
+sympy
+numpy
+pyfiglet
