@@ -5,6 +5,7 @@ Summary: A comprehensive CLI math toolkit
 Author: Thomas
 License: MIT
 Keywords: math cli calculator
+License-File: LICENSE
 Requires-Dist: rich
 Requires-Dist: sympy
 Requires-Dist: numpy
@@ -12,5 +13,6 @@ Requires-Dist: pyfiglet
 Dynamic: author
 Dynamic: keywords
 Dynamic: license
+Dynamic: license-file
 Dynamic: requires-dist
 Dynamic: summary
