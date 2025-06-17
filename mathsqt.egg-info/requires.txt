@@ -1,4 +1,0 @@
-rich
-sympy
-numpy
-pyfiglet

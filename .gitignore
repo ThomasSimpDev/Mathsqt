@@ -1,1 +1,16 @@
+# Python
 venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# Build files
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
