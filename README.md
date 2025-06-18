@@ -8,6 +8,8 @@ Mathsqt is a CLI math toolkit written in Python. The tool covers some of the com
 
 ### Installation
 
+Manual:
+
 ```
 git clone https://github.com/ThomasSimpDev/Mathsqt.git
 cd Mathsqt
@@ -16,11 +18,19 @@ pip install -e .
 mathsqt
 ```
 
+Arch:
+
+```
+yay -S mathsqt
+```
+
 More installations coming soon...
 
 ### Usage
 
-`mathsqt`
+```
+mathsqt
+```
 
 ### Features
 
